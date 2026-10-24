@@ -1,0 +1,7 @@
+// Top-level build file. It only declares which plugins the modules may use.
+// The real configuration is in app/build.gradle.
+plugins {
+    // AGP 7.3.1 is the newest Android Gradle Plugin that Android Studio
+    // Dolphin 2021.3.1 can run. Do not accept the IDE's offer to upgrade it.
+    id 'com.android.application' version '7.3.1' apply false
+}

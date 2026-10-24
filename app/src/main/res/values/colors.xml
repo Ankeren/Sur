@@ -1,0 +1,11 @@
+<resources>
+    <color name="sur_primary">#3A6EA5</color>
+    <color name="sur_primary_dark">#27496D</color>
+    <color name="sur_accent">#E4A11B</color>
+
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_dim">#F3F5F7</color>
+    <color name="text_primary">#1F2328</color>
+    <color name="text_secondary">#6B7480</color>
+    <color name="divider">#E1E5EA</color>
+</resources>
